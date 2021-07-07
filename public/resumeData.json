@@ -1,0 +1,147 @@
+{
+  "main": {
+    "name": "Rémy Le Foll",
+    "occupation": "Nokia",
+    "description": "Développeur fullstack d'application web en React",
+    "jobDescription": "créer des rest api, pousse des pixels, mélange des données et tape sur mon clavier jusqu'à ce que tout fonctionne",
+    "image": "profile.jpg",
+    "bio": "Je suis un athlète dans l'âme, avec un esprit d'entreprise, un don pour la sécurité en ligne et une passion pour le codage. Né dans une petite ville du nord de la France, j'ai déménagé en île de France où je travaille en tant que développeur full stack pour Nokia, en plus de mes nombreux projets en cours. J'adore créer et j'ai tendance à avoir un peu trop de projets en cours à la fois. En dehors du travail, je suis un lecteur passioné, un grand explorateur et j'adore le footing. J'aime voyager et mène un style de vie assez nomade. Je rêve de pouvoir emporter mon travail avec moi lorsque je voyage.",
+    "contactmessage": "Vous avez un projet pour moi ? Vous pensez que je serais un bon élément pour votre équipe ? J'aimerais avoir de vos nouvelles, envoyez-moi un courriel ou utilisez le formulaire ci-dessous si vous souhaitez me contacter.",
+    "email": "remy.lefoll98@gmail.com",
+    "phone": "06 73 09 06 35",
+    "address": {
+      "city": "Orsay",
+      "state": "île de France",
+      "zip": "91400"
+    },
+    "website": "",
+    "resumedownload": "CV.pdf",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/remy-le-foll-ab3259161/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Lindow-ai",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Je suis un bricoleur et je suis toujours intéressé par les nouvelles technologies, mais celles-ci sont celles qui m'ont vraiment conquis.",
+    "education": [
+      {
+        "school": "IUT Orsay",
+        "degree": "License professionnelle programmation internet et systèmes mobiles",
+        "graduated": "Septembre 2021",
+        "description": "Sous la recommandation et les conseils de plusieurs développeurs sur des forums, je suis partie à l'IUT d'Orsay. C'est là que j'ai obtenu ma license en informatique avec une spécialisation en génie mobile et web j'ai reçu une formation beaucoup plus approfondie sur la théorie, les concepts et la science sous-jacents à une programmation plus complexe. C'est là que j'ai découvert ma passion pour la programmation d'applications évolutives (web et mobiles), la sécurité derrière les systèmes informatiques et applicatifs, et que j'ai découvert que j'avais un don pour comprendre les algorithmes complexes."
+      },
+      {
+        "school": "Lycée André Malraux - Béthune",
+        "degree": "BTS formation systèmes numeriques en option informatique et reseaux",
+        "graduated": " Juillet 2019",
+        "description": "J'ai fréquenté le Lycée André Malraux pendant mes deux premières années d'études. J'y ai étudié la technologie des systèmes informatiques, un programme de deux ans menant à un bts en informatique. Il s'agissait d'une expérience très pratique axée davantage sur la réalisation de projets que sur la théorie générale. J'ai construit des structures de bases de données pour des entreprises fictives, construit et codé un robot pour naviguer sur des parcours d'obstacles sur mars sur un logiciel, beaucoup de programmation Java pour les projet mobile et C++, et bien plus encore."
+      },
+      {
+        "school": "Lycée Louis Blaringhem - Béthune",
+        "degree": "BAC Scientifique",
+        "graduated": "Juillet 2017",
+        "description": "Je suis partie sur un bac scientifique afin d'acquérir la logique mathématique pour la suite."
+      }
+    ],
+    "work": [
+      {
+        "company": "Nokia",
+        "title": "Développeur d'applications web full-stack",
+        "years": "Septembre 2020 - Septembre 2021",
+        "description": "Chez Nokia, j'ai été embauché pour aider à donner à une application qui avait connu une croissance organique énorme et régulière le coup de pouce qu'elle méritait. En tant que membre d'une équipe très petite mais talentueuse, je travaille sur la réalisation d'application web pour lers innover ou en créer de nouvelles. Celle-ci se compose actuellement d'un frontal React/JavaScript, d'une nouvelle combinaison de serveurs mongoDB, appolo et graphQL."
+      },
+      {
+        "company": "Mairie de Lille",
+        "title": "Technicien système et réseaux",
+        "years": "Janvier 2020 - mars 2020",
+        "description": "Ma mission principale étais de garantir le bon fonctionnement des outils et équipements informatiques. Lors d’un dysfonctionnement du système informatique, j'ai du établir un diagnostic et d’apporter des solutions adaptées à l’incident observé. En outre j'ai du déployer des poste windows 7 vers windows 10. J'ai également étais là pour transmettre des conseils aux utilisateurs afin de les aider lors d’une panne éventuelle..."
+      },
+      {
+        "company": "Heineken",
+        "title": "Technicien système et réseaux",
+        "years": "Décembre 2019 - Janvier 2020",
+        "description": "Déploiement des postes de travail de Windows 7 vers Windows 10."
+      },
+      {
+        "company": "Reydel",
+        "title": "Technicien supérieur en système numérique informatique et réseaux",
+        "years": "Mai 2018 - juillet 2018",
+        "description": " J'ai eu plusieurs missions en travaillant à Reydel j'étais un peu multi-tâches cependant ma principale mission fut de la création d’une application mobile (web) interne permettant le suivi de production à distance des diffèrentes machines, je suis aussi intervenu sur le matériel informatique, sur une gestion des pannes réseaux, la mise en service des ordinateurs, la réparations imprimantes et enfin la réparations ordinateurs."
+      }
+    ],
+    "project": [
+      {
+        "projectTitle":"Summoners Wars Guide",
+        "title":"Application de gestion",
+        "years": "initier en juin 2021 - Toujours en cours",
+        "description": "Créer une application web avec un api rest afin de guider les nouveaux joueurs et les joueurs expérimenter avec un système à jour à la clé en fonction des nouvelles mise à jour du jeu."
+      },
+      {
+        "projectTitle":"Lovebound",
+        "title":"Application de rencontre",
+        "years": "initier en avril 2021 - Toujours en cours",
+        "description": "Créer une application de rencontre tourné pour un public jeune et timide via un système de défi."
+      },
+      {
+        "projectTitle":"Heroes Skills",
+        "title":"Formation en ligne & application de gestion",
+        "years": "initier en mars 2021 - Toujours en cours",
+        "description": "Créer une application de formation pour apprendre avec du fun. Nous proposons pour cela un système de daily task et de quête."
+      },
+      {
+        "projectTitle":"Hélios",
+        "title":"Application de gestion",
+        "years": "initier en septembre 2020 - Terminé",
+        "description": "Nous avons avec une équipe de 9 développeurs dont moi en tant que Scrum master créer une application web de gestion afin d'informer les personnes des nouveaux jeu de sociétés qui sorte en fonction des différents utilisateurs. Nos utilisateurs peuvent voir les nouvelles sorties, donner leur avis sur ces derniers sur notre application mobile dédiée."
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Markdown app",
+        "category": "Ma 1er application en React",
+        "image": "markdown.png",
+        "url": "https://markdon.herokuapp.com"
+      },
+      {
+        "title": "Heroes Skills",
+        "category": "Site de formation (projet toujours en cour)",
+        "image": "heroes.png",
+        "url": "https://kind-ritchie-a30a02.netlify.app"
+      },
+      {
+        "title": "Space.exe",
+        "category": "Bot discord (projet toujours en cour)",
+        "image": "bot.png",
+        "url": "https://github.com/Lindow-ai/Fey-bot"
+      },
+      {
+        "title": "Yugioh card",
+        "category": "Récupère toutes les carte yugioh de 1er générations",
+        "image": "card.png",
+        "url": "https://yugioh-card.herokuapp.com"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "",
+        "user": ""
+      },
+      {
+        "text": "",
+        "user": ""
+      }
+    ]
+  }
+}
