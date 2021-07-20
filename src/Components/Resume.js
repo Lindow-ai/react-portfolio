@@ -29,7 +29,7 @@ class Resume extends Component {
 
         <div className="row education">
           <div className="three columns header-col">
-            <h1><span>Education</span></h1>
+            <h1><span>Éducation</span></h1>
           </div>
 
           <div className="nine columns main-col">
@@ -45,7 +45,7 @@ class Resume extends Component {
         <div className="row work">
 
           <div className="three columns header-col">
-            <h1><span>Experience</span></h1>
+            <h1><span>Expérience</span></h1>
           </div>
 
           <div className="nine columns main-col">
@@ -92,12 +92,12 @@ class Resume extends Component {
             <div className="columns feature-item">
               <img className="skill" alt="expressJS" src="images/express.png"></img>
               <h5>Express Js</h5>
-              <p>J'apprécie ExpressJs pour sa facilité de configuration et sa capacité à mettre en place rapidement une api REST. J'ai utilisé ExpressJS en équipe pour le projet hélios pour construire l'api REST en conjonction avec React pour construire le frontend de l'application web.</p>
+              <p>J'apprécie ExpressJs pour sa facilité de configuration et sa capacité à mettre en place rapidement une api REST. J'ai utilisé ExpressJS en équipe pour le projet Hélios pour construire l'api REST en conjonction avec React pour construire le frontend de l'application web.</p>
             </div>
             <div className="columns feature-item">
               <img className="skill" alt="React" src="images/react.jpg"></img>
               <h5>React Js</h5>
-              <p>J'ai eu plusieurs expériences dans l'utilisation de React et je trouver ça complexe au début. Mais j'ai appris à l'utiliser et je vais continuer à le faire. Car il offre beaucoup de bibliothèque utilisable et propose beaucoup de foncnalité intéressante. Une fois bien maitriser il est possible de faire de grandes choses ! Ce site a justement étais construit avec React Js.</p>
+              <p>J'ai eu plusieurs expériences dans l'utilisation de React et je trouvais ça complexe au début. Mais j'ai appris à l'utiliser et je vais continuer à le faire. Car il offre beaucoup de bibliothèque utilisable et propose beaucoup de fonctionnalité intéressante. Une fois bien maîtrisée il est possible de faire de grandes choses ! Ce site a justement étais construit avec React Js.</p>
             </div>
             <div className="columns feature-item">
               <img className="skill" alt="ReactVR" src="images/react_vr.png"></img>
@@ -107,7 +107,7 @@ class Resume extends Component {
             <div className="columns feature-item">
               <img className="skill" alt="Next JS" src="images/next_js.png"></img>
               <h5>Next JS</h5>
-              <p>J'utilise parfois Next.js car ce framework permet d’écrire facilement des applications universelles avec React de manière transparente. Je compte l'utiliser à nouveaux pour le projet Summoners Wars Guide.</p>
+              <p>J'utilise parfois Next.js car ce framework permet d’écrire facilement des applications universelles avec React de manière transparente. Je compte l'utiliser à nouveau pour le projet Summoners War Guide.</p>
             </div>
             <div className="columns feature-item">
               <img className="skill" alt="mongoDB" src="images/mongo.jpg"></img>

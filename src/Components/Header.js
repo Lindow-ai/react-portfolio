@@ -23,9 +23,9 @@ class Header extends Component {
 	      <a className="mobile-btn" href="#home" title="Hide navigation">Hide navigation</a>
 
          <ul id="nav" className="nav">
-            <li className="current"><a className="smoothscroll" href="#home">Acceuil</a></li>
-            <li><a className="smoothscroll" href="#about">A propos</a></li>
-	         <li><a className="smoothscroll" href="#resume">Resume</a></li>
+            <li className="current"><a className="smoothscroll" href="#home">Accueil</a></li>
+            <li><a className="smoothscroll" href="#about">À propos</a></li>
+	         <li><a className="smoothscroll" href="#resume">Résume</a></li>
             <li><a className="smoothscroll" href="#portfolio">Démo</a></li>
             <li><a className="smoothscroll" href="#testimonials">Témoignages</a></li>
             <li><a className="smoothscroll" href="#contact">Contact</a></li>

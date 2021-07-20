@@ -3,15 +3,15 @@
     "name": "Rémy Le Foll",
     "occupation": "Nokia",
     "description": "Développeur fullstack d'application web en React",
-    "jobDescription": "créer des rest api, pousse des pixels, mélange des données et tape sur mon clavier jusqu'à ce que tout fonctionne",
+    "jobDescription": "crée des rest api, pousse des pixels, mélange des données et tape sur mon clavier jusqu'à ce que tout fonctionne",
     "image": "profile.jpg",
-    "bio": "Je suis un athlète dans l'âme, avec un esprit d'entreprise, un don pour la sécurité en ligne et une passion pour le codage. Né dans une petite ville du nord de la France, j'ai déménagé en île de France où je travaille en tant que développeur full stack pour Nokia, en plus de mes nombreux projets en cours. J'adore créer et j'ai tendance à avoir un peu trop de projets en cours à la fois. En dehors du travail, je suis un lecteur passioné, un grand explorateur et j'adore le footing. J'aime voyager et mène un style de vie assez nomade. Je rêve de pouvoir emporter mon travail avec moi lorsque je voyage.",
+    "bio": "Je suis un athlète dans l'âme, avec un esprit d'entreprise, un don pour la sécurité en ligne et une passion pour le codage. Né dans une petite ville du nord de la France, j'ai déménagé en île-de-France où je travaille en tant que développeur full stack pour Nokia, en plus de mes nombreux projets en cours. J'adore créer et j'ai tendance à avoir un peu trop de projets en cours à la fois. En dehors du travail, je suis un lecteur passionné, un grand explorateur et j'adore le footing. J'aime voyager et mène un style de vie assez nomade. Je rêve de pouvoir emporter mon travail avec moi lorsque je voyage.",
     "contactmessage": "Vous avez un projet pour moi ? Vous pensez que je serais un bon élément pour votre équipe ? J'aimerais avoir de vos nouvelles, envoyez-moi un courriel ou utilisez le formulaire ci-dessous si vous souhaitez me contacter.",
     "email": "remy.lefoll98@gmail.com",
     "phone": "06 73 09 06 35",
     "address": {
       "city": "Orsay",
-      "state": "île de France",
+      "state": "Île-de-France",
       "zip": "91400"
     },
     "website": "",
@@ -34,15 +34,15 @@
     "education": [
       {
         "school": "IUT Orsay",
-        "degree": "License professionnelle programmation internet et systèmes mobiles",
+        "degree": "Licence professionnelle programmation internet et systèmes mobiles",
         "graduated": "Septembre 2021",
-        "description": "Sous la recommandation et les conseils de plusieurs développeurs sur des forums, je suis partie à l'IUT d'Orsay. C'est là que j'ai obtenu ma license en informatique avec une spécialisation en génie mobile et web j'ai reçu une formation beaucoup plus approfondie sur la théorie, les concepts et la science sous-jacents à une programmation plus complexe. C'est là que j'ai découvert ma passion pour la programmation d'applications évolutives (web et mobiles), la sécurité derrière les systèmes informatiques et applicatifs, et que j'ai découvert que j'avais un don pour comprendre les algorithmes complexes."
+        "description": "Sous la recommandation et les conseils de plusieurs développeurs sur des forums, je suis partie à l'IUT d'Orsay. C'est là que j'ai obtenu ma licence en informatique avec une spécialisation en génie mobile et web j'ai reçu une formation beaucoup plus approfondie sur la théorie, les concepts et la science sous-jacents à une programmation plus complexe. C'est là que j'ai découvert ma passion pour la programmation d'applications évolutives (web et mobiles), la sécurité derrière les systèmes informatiques et applicatifs, et que j'ai découvert que j'avais un don pour comprendre les algorithmes complexes."
       },
       {
         "school": "Lycée André Malraux - Béthune",
-        "degree": "BTS formation systèmes numeriques en option informatique et reseaux",
+        "degree": "BTS formation systèmes numériques en option informatique et réseaux",
         "graduated": " Juillet 2019",
-        "description": "J'ai fréquenté le Lycée André Malraux pendant mes deux premières années d'études. J'y ai étudié la technologie des systèmes informatiques, un programme de deux ans menant à un bts en informatique. Il s'agissait d'une expérience très pratique axée davantage sur la réalisation de projets que sur la théorie générale. J'ai construit des structures de bases de données pour des entreprises fictives, construit et codé un robot pour naviguer sur des parcours d'obstacles sur mars sur un logiciel, beaucoup de programmation Java pour les projet mobile et C++, et bien plus encore."
+        "description": "J'ai fréquenté le Lycée André Malraux pendant mes deux premières années d'études. J'y ai étudié la technologie des systèmes informatiques, un programme de deux ans menant à un BTS en informatique. Il s'agissait d'une expérience très pratique axée davantage sur la réalisation de projets que sur la théorie générale. J'ai construit des structures de bases de données pour des entreprises fictives, construit et codé un robot pour naviguer sur des parcours d'obstacles sur Mars sur un logiciel, beaucoup de programmation Java pour les projets mobile et C++, et bien plus encore."
       },
       {
         "school": "Lycée Louis Blaringhem - Béthune",
@@ -56,13 +56,13 @@
         "company": "Nokia",
         "title": "Développeur d'applications web full-stack",
         "years": "Septembre 2020 - Septembre 2021",
-        "description": "Chez Nokia, j'ai été embauché pour aider à donner à une application qui avait connu une croissance organique énorme et régulière le coup de pouce qu'elle méritait. En tant que membre d'une équipe très petite mais talentueuse, je travaille sur la réalisation d'application web pour lers innover ou en créer de nouvelles. Celle-ci se compose actuellement d'un frontal React/JavaScript, d'une nouvelle combinaison de serveurs mongoDB, appolo et graphQL."
+        "description": "Chez Nokia, j'ai été embauché pour aider à concevoir une application qui avait connu une croissance énorme et régulière, le coup de pouce qu'elle méritait. En tant que membre d'une équipe très petite mais talentueuse, je travaille sur la réalisation d'application web pour les innover ou en créer de nouvelles. Celle-ci se compose actuellement d'un front React/JavaScript ansi que d'une nouvelle combinaison de back avec mongoDB, appolo et graphQL."
       },
       {
         "company": "Mairie de Lille",
         "title": "Technicien système et réseaux",
-        "years": "Janvier 2020 - mars 2020",
-        "description": "Ma mission principale étais de garantir le bon fonctionnement des outils et équipements informatiques. Lors d’un dysfonctionnement du système informatique, j'ai du établir un diagnostic et d’apporter des solutions adaptées à l’incident observé. En outre j'ai du déployer des poste windows 7 vers windows 10. J'ai également étais là pour transmettre des conseils aux utilisateurs afin de les aider lors d’une panne éventuelle..."
+        "years": "Janvier 2020 - Mars 2020",
+        "description": "Ma mission principale était de garantir le bon fonctionnement des outils et équipements informatiques. Lors d’un dysfonctionnement du système informatique, j'ai dû établir un diagnostic et d’apporter des solutions adaptées à l’incident observé. En outre j'ai dû déployer des poste Windows 7 vers Windows 10. J'ai également été là pour transmettre des conseils aux utilisateurs afin de les aider lors d’une panne éventuelle..."
       },
       {
         "company": "Heineken",
@@ -73,34 +73,34 @@
       {
         "company": "Reydel",
         "title": "Technicien supérieur en système numérique informatique et réseaux",
-        "years": "Mai 2018 - juillet 2018",
-        "description": " J'ai eu plusieurs missions en travaillant à Reydel j'étais un peu multi-tâches cependant ma principale mission fut de la création d’une application mobile (web) interne permettant le suivi de production à distance des diffèrentes machines, je suis aussi intervenu sur le matériel informatique, sur une gestion des pannes réseaux, la mise en service des ordinateurs, la réparations imprimantes et enfin la réparations ordinateurs."
+        "years": "Mai 2018 - Juillet 2018",
+        "description": " J'ai eu plusieurs missions en travaillant à Reydel j'étais un peu multi-tâches cependant ma principale mission fut de la création d’une application mobile (web) interne permettant le suivi de production à distance des différentes machines, je suis aussi intervenu sur le matériel informatique, sur une gestion des pannes réseaux, la mise en service des ordinateurs, la réparation imprimantes et enfin la réparation ordinateurs."
       }
     ],
     "project": [
       {
-        "projectTitle":"Summoners Wars Guide",
+        "projectTitle":"Summoners War Guide",
         "title":"Application de gestion",
-        "years": "initier en juin 2021 - Toujours en cours",
-        "description": "Créer une application web avec un api rest afin de guider les nouveaux joueurs et les joueurs expérimenter avec un système à jour à la clé en fonction des nouvelles mise à jour du jeu."
+        "years": "initié en Juin 2021 - Toujours en cours",
+        "description": "Créer une application web avec un api rest afin de guider les nouveaux joueurs et les joueurs expérimentés avec un système de maintenance en fonction des nouvelles mise à jour du jeu."
       },
       {
         "projectTitle":"Lovebound",
         "title":"Application de rencontre",
-        "years": "initier en avril 2021 - Toujours en cours",
-        "description": "Créer une application de rencontre tourné pour un public jeune et timide via un système de défi."
+        "years": "initié en Avril 2021 - Toujours en cours",
+        "description": "Créer une application de rencontre tournée pour un public jeune et timide via un système de défi."
       },
       {
         "projectTitle":"Heroes Skills",
         "title":"Formation en ligne & application de gestion",
-        "years": "initier en mars 2021 - Toujours en cours",
+        "years": "initié en Mars 2021 - Toujours en cours",
         "description": "Créer une application de formation pour apprendre avec du fun. Nous proposons pour cela un système de daily task et de quête."
       },
       {
         "projectTitle":"Hélios",
         "title":"Application de gestion",
-        "years": "initier en septembre 2020 - Terminé",
-        "description": "Nous avons avec une équipe de 9 développeurs dont moi en tant que Scrum master créer une application web de gestion afin d'informer les personnes des nouveaux jeu de sociétés qui sorte en fonction des différents utilisateurs. Nos utilisateurs peuvent voir les nouvelles sorties, donner leur avis sur ces derniers sur notre application mobile dédiée."
+        "years": "initié en Septembre 2020 - Terminé",
+        "description": "Nous avons avec une équipe de 9 développeurs dont moi en tant que Scrum master créé une application web de gestion afin d'informer les personnes des nouveaux jeux de société qui sortent en fonction des différents utilisateurs. Nos utilisateurs peuvent voir les nouvelles sorties, donner leur avis sur ces derniers sur notre application mobile dédiée."
       }
     ]
   },
